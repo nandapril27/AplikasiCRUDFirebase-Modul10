@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "620221012805",
+    "firebase_url": "https://fir-nan-4411b-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "fir-nan-4411b",
+    "storage_bucket": "fir-nan-4411b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:620221012805:android:9ccb6ffa271f8ed528bc2c",
+        "android_client_info": {
+          "package_name": "com.example.crudfirebase_modul10"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGfP0rdpeWVkRYTIHZDrJ3PJQZ5UE5PCY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
